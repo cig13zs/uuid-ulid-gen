@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cig13zs.github.io/uuid-ulid-gen/sitemap.xml
